@@ -5,7 +5,7 @@
 **BSc Computer Science for Management** · **Master in Cybersecurity** *(in progress)* · Bologna, Italy
 
 [![Website](https://img.shields.io/badge/Website-cv.giuseppecozza.it-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://cv.giuseppecozza.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-giuseppecozza--bo-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/giuseppecozza-bo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-giuseppecozza--bo-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giuseppe-cozza-bo/)
 [![Email](https://img.shields.io/badge/Email-giusecozza24@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:giusecozza24@gmail.com)
 
 </div>
