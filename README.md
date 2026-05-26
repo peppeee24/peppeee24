@@ -13,7 +13,11 @@
 
 ## About me
 
-Computer Science graduate with a strong focus on **cybersecurity** and **software engineering**.
-Currently specializing in *Cyber Security & Data Protection Management* at Radar Academy, with hands-on knowledge in threat analysis, incident response, GDPR/NIS2, and network security.
+Hi, I'm Giuseppe 👋
+I'm an Italian developer and cybersecurity enthusiast based in Bologna, Italy. I hold a BSc in Computer Science for Management from the University of Bologna and I'm currently pursuing a Master's in Cyber Security & Data Protection Management at Radar Academy.
+My interest spans two worlds:
 
-I also build things — I've shipped games on **Steam** and **Google Play Store**, managing the full development cycle from architecture to release.
+🔐 Cybersecurity — threat analysis, incident response, GDPR/NIS2, network security and data protection
+🎮 Game development — I've independently built and shipped games on Steam and Google Play Store, handling everything from architecture and physics systems to multiplayer networking and release
+
+I'm actively looking for my first professional role in cybersecurity or information security, where I can bring both my technical background and my problem-solving mindset.
